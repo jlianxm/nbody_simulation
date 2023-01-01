@@ -1,4 +1,4 @@
-# Mandelbrot Set Computation
+# Parallel N body simulation
 
 ## Usage
 
